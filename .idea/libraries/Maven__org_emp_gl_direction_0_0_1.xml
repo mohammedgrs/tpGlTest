@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.emp.gl:direction:0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/direction/pom.xml!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/direction/direction-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/direction/direction-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

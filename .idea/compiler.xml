@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lookup" />
+        <module name="gui" />
+        <module name="timer-service" />
+        <module name="launcher" />
+        <module name="timer-service-impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="direction" target="8" />
+      <module name="gui" target="8" />
+      <module name="labyrinthe" target="1.7" />
+      <module name="launcher" target="8" />
+      <module name="lookup" target="8" />
+      <module name="move" target="8" />
+      <module name="timer-service" target="8" />
+      <module name="timer-service-impl" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
